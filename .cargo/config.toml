@@ -1,4 +1,2 @@
 [target.x86_64-apple-darwin]
-rustflags = ["-C", "link-arg=-fuse-ld=~/zld"]
-[target.aarch64-apple-darwin]
-rustflags = ["-C", "link-arg=-fuse-ld=~/zld"]
+rustflags = ["-C", "link-arg=-fuse-ld=/Users/derek/zld"]
