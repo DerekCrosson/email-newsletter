@@ -34,8 +34,8 @@ auth:
   providers:
     github:
       development:
-        clientId: ${GITHUB_DEVELOPMENT_CLIENT_ID}
-        clientSecret: ${GITHUB_DEVELOPMENT_CLIENT_SECRET}
+        clientId: ${DEVELOPMENT_CLIENT_ID}
+        clientSecret: ${DEVELOPMENT_CLIENT_SECRET}
 
 catalog:
   readonly: true
