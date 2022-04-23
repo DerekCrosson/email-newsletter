@@ -8,6 +8,6 @@ metadata:
   tags:
     - rust
 spec:
-  type: api
+  type: website
   lifecycle: experimental
   owner: Derek Crosson
