@@ -9,5 +9,5 @@ metadata:
     - rust
 spec:
   type: api
-  lifecycle: production
+  lifecycle: experimental
   owner: Derek Crosson
