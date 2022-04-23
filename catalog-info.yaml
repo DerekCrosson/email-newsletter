@@ -11,3 +11,5 @@ spec:
   type: api
   lifecycle: production
   owner: derekcrosson18@gmail.com
+  definition:
+    $text: https://github.com/DerekCrosson/email-newsletter/docs
