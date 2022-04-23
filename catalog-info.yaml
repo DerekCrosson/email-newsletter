@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: Component
 metadata:
   name: email-newsletter
   description: Production grade test API
@@ -11,5 +11,3 @@ spec:
   type: api
   lifecycle: production
   owner: derekcrosson18@gmail.com
-  definition:
-    $text: https://petstore.swagger.io/v2/swagger.json
