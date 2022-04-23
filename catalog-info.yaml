@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: email-newsletter
+  annotations:
+    github.com/project-slug: DerekCrosson/email-newsletter
+spec:
+  type: other
+  lifecycle: unknown
+  owner: DerekCrosson
