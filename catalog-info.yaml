@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: DerekCrosson/email-newsletter
 spec:
-  type: other
-  lifecycle: unknown
+  type: api
+  lifecycle: production
   owner: DerekCrosson
